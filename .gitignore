@@ -30,3 +30,15 @@
 
 # Debug files
 *.dSYM/
+
+# Altera generated files 
+/obj/
+/socket_srv.map
+/socket_srv.objdump
+
+# Eclipse generated files
+/.project
+/.cproject
+/.settings
+/Makefile
+/create-this-app
